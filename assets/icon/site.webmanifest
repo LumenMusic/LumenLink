@@ -1,6 +1,6 @@
 {
-    "name": "Cubiq's Site",
-    "short_name": "Cubiq's Site",
+    "name": "Lumen's Site",
+    "short_name": "Lumen's Site",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#333333",
-    "background_color": "#333333",
+    "theme_color": "#312333",
+    "background_color": "#312333",
     "display": "standalone"
 }
